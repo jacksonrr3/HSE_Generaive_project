@@ -1,4 +1,4 @@
 # Pix2Pix and CycleGAN
 
-implementation pix2pix and basic CycleGAN architecture
+simple pytorch implementation pix2pix and basic CycleGAN architecture
 
